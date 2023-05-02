@@ -1,0 +1,7 @@
+{
+    "html":{
+        "snippets":{
+            "test": "ul>li[id=${1} class=${2}]*2{Custom Snippets Test}"
+        }
+    }
+}
